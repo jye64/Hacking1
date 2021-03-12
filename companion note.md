@@ -3,6 +3,7 @@
 ![alt text][tool]
 
 [tool]:  https://github.com/OWASP/QRLJacking/blob/master/QRLJacker/Screenshots/Screenshot1.png
+*image by [OWASP](https://github.com/OWASP/QRLJacking)*
 
 
 ## Overview
