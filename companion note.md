@@ -44,6 +44,7 @@ QR code (Quick Response barcode that consists of black squares and dots. As it c
 ![alt text][attack flow]
 
 [attack flow]:  https://github.com/OWASP/QRLJacking/blob/master/blob/images/AttackFlow.JPG
+*image by [OWASP](https://github.com/OWASP/QRLJacking)*
 
 
 ## Commands and Flags Used
