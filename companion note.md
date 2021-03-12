@@ -59,6 +59,10 @@ QR code (Quick Response barcode that consists of black squares and dots. As it c
 
 ## How Phishing can be done?
 
+![alt text][phishing]
+
+[phishing]:  https://github.com/jye64/Hacking1/blob/master/phishing-page.png
+
 * Spam emails, social media
 * Third-party login
 * Fake website domain name
